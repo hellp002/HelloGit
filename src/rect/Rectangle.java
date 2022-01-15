@@ -10,6 +10,14 @@ public class Rectangle {
 		this.height = Math.max(1, height);
 	}
 
+	public void setWidth(int width) {
+		this.width = width;
+	}
+
+	public void setHeight(int height) {
+		this.height = height;
+	}
+
 	public int getWidth() {
 		return this.width;
 	}
