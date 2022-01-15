@@ -11,15 +11,15 @@ public class Rectangle {
 	}
 
 	public int getWidth() {
-		return width;
+		return this.width;
 	}
 
 	public int getHeight() {
-		return height;
+		return this.height;
 	}
 	
 	public int getArea() {
-		return width * height;
+		return this.width * this.height;
 	}
 	
 	
