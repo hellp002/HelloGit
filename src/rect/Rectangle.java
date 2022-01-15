@@ -18,5 +18,9 @@ public class Rectangle {
 		return height;
 	}
 	
+	public int getArea() {
+		return width * height;
+	}
+	
 	
 }
