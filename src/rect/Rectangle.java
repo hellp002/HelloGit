@@ -8,6 +8,7 @@ public class Rectangle {
 		super();
 		this.width = Math.max(1, width);
 		this.height = Math.max(1, height);
+		//aaaaaaaaaa
 	}
 
 
